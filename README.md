@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jaden 👋
 
-<!--
-**JadenKDev/JadenKDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate interested in software development, Python, AI/ML, and creative technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.S. in Computer Science
+- 🐍 Currently strengthening my Python and software engineering skills
+- 🤖 Interested in AI, machine learning, and intelligent systems
+- 🛠️ I enjoy building practical software and experimenting with new technologies
+
+## Featured Projects
+
+- **ABCU Advising Assistant** — C++ / SQLite
+- **Deep Q-Learning Pirate Agent** — Python / Keras
+- **Travlr Getaways** — MongoDB / Express / Angular / Node.js
+- **Animal Database & Dashboard** — Python / MongoDB
+- **OpenGL 3D Scene** — C++ / OpenGL
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jadenkdev/)
