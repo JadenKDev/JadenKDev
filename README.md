@@ -11,11 +11,12 @@ Computer Science graduate interested in software development, Python, AI/ML, and
 
 ## Featured Projects
 
-- **ABCU Advising Assistant** — C++ / SQLite
 - **Deep Q-Learning Pirate Agent** — Python / Keras
 - **Travlr Getaways** — MongoDB / Express / Angular / Node.js
-- **Animal Database & Dashboard** — Python / MongoDB
-- **OpenGL 3D Scene** — C++ / OpenGL
+- **Animal Rescue Dashboard** — Python / MongoDB
+- **ABCU Advising Assistant** — C++ / SQLite
+- **OpenGL Still-Life Scene** — C++ / OpenGL
+- **Bid Management Hash Table** — C++
 
 ## Connect
 
